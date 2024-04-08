@@ -1,7 +1,11 @@
 ## About me
 
-**Education**: *Duke Kunshan University, Class of 2024*  
-**Major**: Data Science
+**Education**:
+*Duke Kunshan University*, class of 2024
+- Bachelor of Science in Data Science (by Duke Kunshan University)
+- Bachelor of Science in Interdisciplinary Plans (by Duke University)
+*University of California, Berkeley*
+- Master of Analytics in Operations Research, class of 2025
 
 #### Highlights
 - **Academic Achievement**: Consistent Dean’s List with Distinction
