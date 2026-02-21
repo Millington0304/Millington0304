@@ -1,42 +1,35 @@
 ## About me
 
 ### Education
+*University of California, Berkeley*, class of 2025
+- Master of Analytics in Operations Research
+
 *Duke Kunshan University*, class of 2024
 - Bachelor of Science in Data Science (by Duke Kunshan University)
 - Bachelor of Science in Interdisciplinary Plans (by Duke University)
 
-*University of California, Berkeley*, enrolled as class of 2025
-- Master of Analytics in Operations Research
-
 #### Highlights
 - **Academic Achievement**: Consistent Dean’s List with Distinction
-- **Professional Experience**: Marketing Internship at Elkem International Trade focusing on silicon industry research
+- **Professional Experience**: Marketing Internship at Elkem International Trade, focusing on applications of workflow automation and data analytics in industrial settings.
 - **Academic Projects**: 
-  - GA-optimized built-from-scratch NLP recommendation system
-  - Contribution to IEEE conference paper on RNN and combinatorial optimization
-- **Programming Leadership**: 
+  - First Author, IEEE conference paper on GA-optimized built-from-scratch NLP recommendation system - [Link](https://ieeexplore.ieee.org/document/11326100)
+  - Co-first Author, IEEE conference paper on RNN in combinatorial optimization - [Link](https://ieeexplore.ieee.org/document/10254068?denied=)
+- **Programming Leadership**:
+  - Google Ads case study
   - Chief Programmer in Global Game Jam
   - Team Leader in the International Mathematical Modeling Challenge
 
 #### Skills
-- **Languages**: Fluent in Mandarin and English
+- **Languages**: Fluent in English and Mandarin
 - **Programming Languages**: Python, C#, Java, C, C++, x86 ASM.
-- **DS/CS related Interests**: Applications of machine learning and general data science techniques, Operating systems, Compilation principles, Computer architecture, etc.
-- **Other Interests**: Meteorology (esp. mesoscale systems), seismology, user psychology, transportation system engineering (esp. rail and aviation sectors), postmodern philosophy.
+- **DS/CS Interests**: Applications of machine learning and general data science techniques, Operating systems, Compilation principles, Computer architecture, various specialized workflow automation, etc.
+- **Other Interests**: Meteorology (esp. mesoscale systems), seismology, user psychology, transportation system engineering (esp. rail and aviation sectors), modern art.
 
 #### Personal Projects
+- Developing Python scripts for user-specific tasks (data preprocessing, batch file operations, etc.)
 - Developing .NET applications for API integration and application
 - Creating automation tools for user software and OS development
-- Designing efficient file and text batch processing systems
 - Developing tools for meteorology, seismology, and cryptology information collection and processing
-- Exploring applications of State-of-the-Art public AI models
-
-#### Plaintext description
-&emsp;Yuanjun Lin, a distinguished student at Duke Kunshan University, majors in data science and is expected to graduate in 2024. His educational journey is marked by a consistent Dean’s List with Distinction status, showcasing his academic excellence. Yuanjun's professional exposure includes a marketing internship at Elkem International Trade, where he honed his research skills in the silicon industry. Academically, he has developed a GA-optimized built-from-scratch NLP recommendation system and contributed to a published IEEE conference paper on the application of RNN in combinatorial optimization through hyperheuristic algorithms.\
-&emsp;In programming, he has demonstrated his prowess in application as a Chief Programmer in a Global Game Jam project and led a team to success in the International Mathematical Modeling Challenge. Fluent in Mandarin and English, Yuanjun is skilled in multiple programming languages, including Python, C#, and Java, positioning him as a versatile and promising talent in the data science field.\
-&emsp;Yuanjun Lin also pursues his passion for creating innovative and practical projects in his free time. He enjoys developing simple .NET applications to apply APIs for practical uses such as Text-to-Speech (TTS), crafting automation tools to streamline software and OS development, and designing systems for efficient file and text batch processing. His interest also extends to developing tools for meteorology, seismology, and cryptology information collection and processing, showcasing his enthusiasm for applying his data science expertise to diverse and impactful areas. Many applications of SoA public AI models are also of interest.\
-&emsp;Other computer science-related interests of his include Operating systems, compilation principles, and computer architecture.
-
 
 --0xA676###C
 
